@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import bell_icon from './bell.png'
 import home_icon from './home.png'
 import like_icon from './like.png'
@@ -79,14 +80,14 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 Pakistan",
         image: img9,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending Pakistan",
         image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
